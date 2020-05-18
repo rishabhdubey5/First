@@ -1,2 +1,2 @@
-# First
-This project is consist of the basics of python programming.
+# Python
+This project is consist of the basics fundamentals of python programming.
